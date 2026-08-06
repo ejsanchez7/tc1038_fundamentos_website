@@ -1,0 +1,7 @@
+.wrapper, .nav-wrapper {
+    padding: 0px 25px;
+}
+
+table tbody tr td:first-child {
+    text-align: center;
+}
