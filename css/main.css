@@ -5,3 +5,16 @@
 table tbody tr td:first-child {
     text-align: center;
 }
+
+table tbody tr td {
+    vertical-align: top;
+}
+
+.material-icons {
+    vertical-align: bottom;
+    margin-right: 3px;
+}
+
+table li {
+    margin-bottom: 7px;
+}
